@@ -2,6 +2,12 @@
 
 An AI-powered customer analytics platform built using Streamlit and Machine Learning to analyze customer behavior, identify customer segments, predict churn, predict campaign response, and generate intelligent recommendations.
 
+# 🌐 Live Demo
+
+🚀 Access the deployed website here:
+
+https://nec-major-1-ai-customer-intelligence.onrender.com
+
 ---
 
 # 🚀 Features
