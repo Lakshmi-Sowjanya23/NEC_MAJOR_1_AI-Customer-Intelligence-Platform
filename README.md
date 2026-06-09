@@ -10,6 +10,57 @@ https://nec-major-1-ai-customer-intelligence.onrender.com
 
 ---
 
+# 📷 Output
+
+## Home Page
+
+<p align="center">
+  <img src="outputs/home.png" width="900">
+</p>
+
+## Data Analysis
+
+<p align="center">
+  <img src="outputs/data_analysis.png" width="900">
+</p>
+
+## Customer Analytics
+
+<p align="center">
+  <img src="outputs/customer_analytics.png" width="900">
+</p>
+
+## Customer Segmentation
+
+<p align="center">
+  <img src="outputs/segmentation.png" width="900">
+</p>
+
+## Churn Prediction
+
+<p align="center">
+  <img src="outputs/churn_prediction.png" width="900">
+</p>
+
+## Purchase Prediction
+
+<p align="center">
+  <img src="outputs/purchase_prediction.png" width="900">
+</p>
+
+## Recommendation Engine
+
+<p align="center">
+  <img src="outputs/recommendation_engine.png" width="900">
+</p>
+
+## Enterprise Dashboard
+
+<p align="center">
+  <img src="outputs/dashboard.png" width="900">
+</p>
+---
+
 # 🚀 Features
 
 ### 📈 Data Analysis
@@ -201,52 +252,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
----
-
-# 📷 Output
-
-### Home Page
-
-<p align="center">
-  <img src="outputs/home.png" width="900">
-</p>
-
-### Customer Analytics
-
-<p align="center">
-  <img src="outputs/customer_analytics.png" width="900">
-</p>
-
-### Customer Segmentation
-
-<p align="center">
-  <img src="outputs/segmentation.png" width="900">
-</p>
-
-### Churn Prediction
-
-<p align="center">
-  <img src="outputs/churn_prediction.png" width="900">
-</p>
-
-### Purchase Prediction
-
-<p align="center">
-  <img src="outputs/purchase_prediction.png" width="900">
-</p>
-
-### Recommendation Engine
-
-<p align="center">
-  <img src="outputs/recommendation_engine.png" width="900">
-</p>
-
-### Enterprise Dashboard
-
-<p align="center">
-  <img src="outputs/dashboard.png" width="900">
-</p>
 
 ---
 
