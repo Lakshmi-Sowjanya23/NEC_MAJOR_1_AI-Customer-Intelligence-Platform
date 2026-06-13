@@ -6,7 +6,7 @@ An AI-powered customer analytics platform built using Streamlit and Machine Lear
 
 🚀 Access the deployed website here:
 
-https://nec-major-1-ai-customer-intelligence.onrender.com
+Link : https://nec-major-1-ai-customer-intelligence.onrender.com
 
 ---
 
